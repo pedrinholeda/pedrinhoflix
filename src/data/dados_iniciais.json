@@ -1,0 +1,190 @@
+{
+  "categorias": [
+    {
+      "titulo": "Filmes",
+      "link": "https://www.netflix.com/br",
+      "cor": "#dc402b",
+      "link_extra": {
+        "text": "Seleção de Filmes",
+        "url": "https://www.netflix.com/br"
+      },
+      "videos": [
+        {
+          "titulo": "Howl's Moving Castle - Celebrate Studio Ghibli",
+          "url": "https://www.youtube.com/watch?v=oCIeWol8jVk"
+        },
+        {
+          "titulo": "O Rapaz e o Monstro",
+          "url": "https://www.youtube.com/watch?v=wxCMuTJvSu4"
+        },
+        {
+          "titulo": "Interestelar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "A Viagem de Chihiro",
+          "url": "https://www.youtube.com/watch?v=IuwAvQy-blc"
+        },
+        {
+          "titulo": "Animais Fantásticos e Onde Habitam",
+          "url": "https://www.youtube.com/watch?v=TiaxfJ7QrIo"
+        },
+        {
+          "titulo": "Harry Potter and the Chamber of Secrets",
+          "url": "https://www.youtube.com/watch?v=ZAf3U0J8Se8"
+        },
+        {
+          "titulo": "Avengers",
+          "url": "https://www.youtube.com/watch?v=cT9mxZUQ2JM"
+        },
+        {
+          "titulo": "Joker",
+          "url": "https://www.youtube.com/watch?v=zAGVQLHvwOY"
+        }        
+      ]
+    },
+    {
+      "titulo": "Animes",
+      "cor": "#f07530",
+      "link_extra": {
+        "text": "Conteudo sobre Animes",
+        "url": "https://www.crunchyroll.com/pt-br"
+      },
+      "videos": [
+        {
+          "titulo": "ANIMES PRA MARATONAR NA QUARENTENA",
+          "url": "https://www.youtube.com/watch?v=GeUqdXdf5NU"
+        },
+        {
+          "titulo": "THE PROMISED NEVERLAND: O MELHOR ANIME DA TEMPORADA",
+          "url": "https://www.youtube.com/watch?v=SfAlTmfmiOk"
+        },
+        {
+          "titulo": "TENTE NÃO RIR COM ESSES ANIMES!",
+          "url": "https://www.youtube.com/watch?v=oGlgLERw3bU&t=3s"
+        },
+        {
+          "titulo": "5 FILMES DE ANIME QUE VOCÊ TEM QUE VER!",
+          "url": "https://www.youtube.com/watch?v=wgl113HF3XQ"
+        }, 
+        {
+          "titulo": "OS MELHORES ANIMES DE 2019",
+          "url": "https://www.youtube.com/watch?v=QpRygHQ6tIE&t=245s"
+        }
+      ]
+    },
+    {
+      "titulo": "Series",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Conteudo sobre Series",
+        "url": "https://www.netflix.com/br"
+      },
+      "videos": [
+        {
+          "titulo": "SHERLOCK - Como Ser Mais Atento!",
+          "url": "https://www.youtube.com/watch?v=HsvxfllG_zw"
+        },
+        {
+          "titulo": "Deadly Class",
+          "url": "https://www.youtube.com/watch?v=1Jn0OM97V88"
+        },
+        {
+          "titulo": "How to Sell Drugs Online (Fast)",
+          "url": "https://www.youtube.com/watch?v=YzkWqRYvWHI"
+        },
+        {
+          "titulo": "The Boys | Trailer da temporada 01",
+          "url": "https://www.youtube.com/watch?v=43YeHlEOUCw"
+        }
+      ]
+    },
+    {
+      "titulo": "Youtube",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Conteudo na plataforma Youtube",
+        "url": "https://www.youtube.com.br/"
+      },
+      "videos": [
+        {
+          "titulo": "A VELOCIDADE DO TEMPO",
+          "url": "https://www.youtube.com/watch?v=PJdpOBAeoXY"
+        },
+        {
+          "titulo": "Cápsula do Tempo e RABISCO",
+          "url": "https://www.youtube.com/watch?v=A_Eod2Yt02k"
+        },
+        {
+          "titulo": "A Viagem de Chihiro | Amadurecimento e Identidade",
+          "url": "https://www.youtube.com/watch?v=8BBNDnbWq48"
+        },
+        {
+          "titulo": "AFONSO PADILHA - NÃO TÁ COMPENSANDO SER ADULTO",
+          "url": "https://www.youtube.com/watch?v=QgQw1atlioU&t=2s"
+        },
+        {
+          "titulo": "ONDE ESTÃO TODOS ALIENÍGENAS? Especial Nostalgia Ciência",
+          "url": "https://www.youtube.com/watch?v=YJsPmC8e7A4"
+        }
+        
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#1070d1",
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
